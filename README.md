@@ -38,7 +38,7 @@ Adjust parameters in the toolbar to update the shell mesh in real time. Use the 
 ![Butterfly View](readmepics/butterflyview.png)
 
 ### Shell Before X‑ray
-![Shell Before X-ray](readmepics/Shell beforexray.png)
+![Shell Before X-ray](readmepics/Shellbeforexray.png)
 
 ### Siphuncle & X‑ray View
 ![Siphuncle & X-ray View](readmepics/siphuncle&XrayView.png)
