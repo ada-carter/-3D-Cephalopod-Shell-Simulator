@@ -16,7 +16,7 @@ A Python PyQt5/PyQtGraph application for generating, visualizing, and interactin
 1. Make sure you have Python 3.8+ installed.
 2. Clone this repository and navigate to the project root:
    ```bash
-   git clone https://github.com/ada-carter/-3D-Cephalopod-Shell-Simulator.git
+   git clone https://github.com/ada-carter/3D-Cephalopod-Shell-Simulator.git
    ```
 3. Install dependencies:
    ```bash
