@@ -1,0 +1,11 @@
+# Python dependencies
+pyqt5
+pyqtgraph
+numpy
+openpyxl
+pandas
+PyOpenGL
+qdarkstyle
+
+# Add matplotlib for colormap support
+matplotlib
